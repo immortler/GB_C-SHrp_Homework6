@@ -1,0 +1,15 @@
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.csproj.AssemblyReference.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.AssemblyInfoInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.AssemblyInfo.cs
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.csproj.CoreCompileInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\bin\Debug\net6.0\Task43.exe
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\bin\Debug\net6.0\Task43.deps.json
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\bin\Debug\net6.0\Task43.runtimeconfig.json
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\bin\Debug\net6.0\Task43.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\bin\Debug\net6.0\Task43.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\refint\Task43.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\Task43.genruntimeconfig.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw6\Task43\obj\Debug\net6.0\ref\Task43.dll
